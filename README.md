@@ -22,6 +22,7 @@ The analysis is conducted for **Birhan Energies**, with the goal of supporting:
 - Interactive dashboard (Flask + React)
 
 ## Project Structure
+```text
 Brent-Oil-ChangePoint-Analysis/
 │
 ├── data/
@@ -58,3 +59,4 @@ Brent-Oil-ChangePoint-Analysis/
 │
 ├── README.md
 └── requirements.txt 
+```
