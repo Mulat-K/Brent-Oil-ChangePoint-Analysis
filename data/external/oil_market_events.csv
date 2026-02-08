@@ -1,0 +1,16 @@
+date,event_type,event_name,description,expected_impact
+1990-08-02,Conflict,Gulf War,Iraq invades Kuwait disrupting global oil supply,Price Increase
+2001-09-11,Geopolitical,9/11 Attacks,Terrorist attacks increase global uncertainty and oil risk premium,Volatility Increase
+2003-03-20,Conflict,Iraq War Begins,US-led invasion of Iraq affects major oil producer,Price Increase
+2008-09-15,Economic Crisis,Lehman Brothers Collapse,Global financial crisis sharply reduces oil demand,Price Decrease
+2011-02-15,Conflict,Libyan Civil War,Supply disruption from major North African oil producer,Price Increase
+2014-11-27,OPEC Policy,OPEC Maintains Production,OPEC decides not to cut output leading to oversupply,Price Decrease
+2016-01-16,Sanctions,Iran Sanctions Lifted,Return of Iranian oil to global markets,Price Decrease
+2018-05-08,Sanctions,US Withdraws from Iran Deal,Re-imposition of sanctions reduces Iranian exports,Price Increase
+2019-09-14,Infrastructure,Saudi Aramco Attacks,Drone attacks temporarily halt Saudi oil production,Price Spike
+2020-03-11,Global Health,COVID-19 Pandemic Declared,Global demand collapse due to lockdowns,Price Decrease
+2020-04-12,OPEC Policy,OPEC+ Historic Production Cut,Largest coordinated oil production cut in history,Price Increase
+2021-03-23,Infrastructure,Suez Canal Blockage,Temporary disruption to global energy logistics,Volatility Increase
+2022-02-24,Conflict,Russia Invades Ukraine,Sanctions and supply fears from major oil exporter,Price Increase
+2022-03-08,Sanctions,US Bans Russian Oil Imports,Major supply restriction to global markets,Price Increase
+2022-06-02,OPEC Policy,OPEC+ Limited Output Increase,OPEC+ resists pressure to raise output significantly,Price Increase
